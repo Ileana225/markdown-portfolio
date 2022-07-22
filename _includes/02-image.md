@@ -1,1 +1,1 @@
-![Image of a golden retriver with tennis balls] (https://animalia-life.com/golden-retriever.html)
+![Image of a golden retriver] (http://www.pngall.com/golden-retrievers-png)
