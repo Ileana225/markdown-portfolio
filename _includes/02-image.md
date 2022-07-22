@@ -1,1 +1,1 @@
-![Image of a golden retriver] (http://www.pngall.com/golden-retrievers-png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
