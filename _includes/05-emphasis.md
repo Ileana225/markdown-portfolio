@@ -1,6 +1,5 @@
-- Create a *python code*
-- Make it work
-- Add more points to identify list
-- Perhaps more?
-  - Check sintax erros
-  - do an error check :smile:
+- list item #1
+- list item #2
+- list item #3
+- and one last one for good luck 
+- i guess it wont hurt
